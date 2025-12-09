@@ -1,4 +1,10 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey I'm Amine<br>👋What's Up?</h1>
+
+###
+
+<div align="center">
+  <img height="200" src="https://avatars.githubusercontent.com/u/144474560?s=400&u=36917af4c1d6c318d4d0268de6dc171e738e3b31&v=4"  />
+</div>
 
 ###
 
@@ -51,5 +57,26 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CodeBloodedAmine&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeBloodedAmine&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9tNHFvN2Ywd3RrenV1eG4wZWVxcWx0YnlyY2h6ZHF2eG1vNjVmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeBloodedAmine/CodeBloodedAmine/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeBloodedAmine/CodeBloodedAmine/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CodeBloodedAmine/CodeBloodedAmine/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
